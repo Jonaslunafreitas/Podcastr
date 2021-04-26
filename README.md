@@ -80,6 +80,5 @@ You can view the project layout through the links below:
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
-## 📝 License
 
 <p align="center"> by Jonas Luna</p>
