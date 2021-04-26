@@ -1,6 +1,6 @@
 <h1  align="center">
 
-<img  alt="Podcastr"  title="Podcastr"  src="/podcastr.PNG" />
+<img  alt="Podcastr"  title="Podcastr"  src="https://github.com/Jonaslunafreitas/Podcastr/blob/main/public/podcastr.png" />
 
 </h1>
 
