@@ -1,6 +1,6 @@
 <h1  align="center">
 
-<img  alt="Podcastr"  title="Podcastr"  src="/podcastr.png" />
+<img  alt="Podcastr"  title="Podcastr"  src="..public/podcastr.PNG" />
 
 </h1>
 
